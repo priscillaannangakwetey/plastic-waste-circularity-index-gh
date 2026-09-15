@@ -465,7 +465,7 @@ Future versions will include additional scripts and statistical outputs as the p
 
 # Author
 
-**Priscilla Annang-Akwetey**
+Priscilla Annang-Akwetey
 
 Quality Control | Packaging | Quality Management | Sustainability | Data Analytics
 
