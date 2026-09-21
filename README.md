@@ -275,9 +275,7 @@ Focuses on sachets, films and pouches.
 
 Allows comparison between the six regions represented in the dataset.
 
----
-
-# Python Analysis
+Python Analysis
 
 Python was used for:
 
@@ -298,7 +296,7 @@ pandas
 numpy
 matplotlib
 
-# Excel Model
+Excel Model
 
 An Excel component is being developed to provide a user-friendly analytical interface.
 
@@ -315,7 +313,7 @@ Scenario analysis is currently treated as a **future extension** rather than par
 
 
 
-# R Statistical Analysis
+R Statistical Analysis
 
 Statistical analysis in R is planned as a future extension.
 
@@ -332,7 +330,7 @@ Potential future analyses include:
 The current project has not completed these analyses.
 
 
-# Analytical Workflow
+Analytical Workflow
 
 The project follows the workflow:
 
@@ -363,7 +361,7 @@ Scenario Analysis
 Research Development
 
 
-# Limitations
+Limitations
 
 ### 1. Dataset
 
@@ -400,29 +398,6 @@ The six regions represented in the synthetic dataset should not be interpreted a
 
 Scenario analysis has not yet been incorporated into the completed project.
 
----
-
-# Future Development
-
-Future versions of the project may include:
-
-* Statistical analysis using R
-* Sensitivity analysis
-* Scenario modelling
-* Uncertainty analysis
-* Monte Carlo simulation
-* Integration with real Ghanaian waste datasets
-* Material Flow Analysis
-* Life Cycle Assessment
-* Economic analysis
-* Spatial/geographic analysis
-* Improved circularity weighting
-* Material-quality considerations
-* Recycling-chain modelling
-* Policy scenario evaluation
-
-
-
 # Research Application
 
 This project is being developed as a portfolio and research foundation for further work in:
@@ -440,40 +415,21 @@ This project is being developed as a portfolio and research foundation for furth
 
 # Tools
 
-| Tool       | Purpose                                |
-| ---------- | -------------------------------------- |
-| Python     | Data cleaning, validation and analysis |
-| Pandas     | Data manipulation                      |
-| NumPy      | Numerical calculations                 |
-| Matplotlib | Visualisation                          |
-| Power BI   | Interactive dashboard                  |
-| Excel      | Analytical model                       |
-| R          | Planned statistical extension          |
-| Git/GitHub | Version control and reproducibility    |
+ Tool       | Purpose
 
----
+Python        Data cleaning, validation and analysis 
+Pandas        Data manipulation                      
+NumPy         Numerical calculations                
+Matplotlib    Visualisation                          
+Power BI      Interactive dashboard                  
+Excel         Analytical model                       
+R             Planned statistical extension          
+Git/GitHub    Version control and reproducibility    
 
-# Reproducibility
 
-The project is structured so that the analytical workflow can be reproduced from the provided dataset and Python notebook.
-
-The analytics-ready dataset contains the engineered indicators used in the dashboard and subsequent analysis.
-
-Future versions will include additional scripts and statistical outputs as the project develops.
-
----
-
-# Author
+Author
 
 Priscilla Annang-Akwetey
 
 Quality Control | Packaging | Quality Management | Sustainability | Data Analytics
 
-Research interests:
-
-* Industrial Ecology
-* Circular Economy
-* Sustainable Packaging
-* Life Cycle Assessment
-* Plastic Waste Management
-* Environmental and Operations Analytics
